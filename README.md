@@ -1,1 +1,2 @@
 # lab-02
+This lab was all about getting comfortable with git and the command line. I learned how to figure out how to make folders, create files, and run a bunch of git commands in the terminal. I setup my git user stuff, added files, ignored some too, and even messed with different things like branches. Also used VS Code to do some of it. It was very hands on and made git less intimidating then I had seen before.
